@@ -14,9 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-        func WWW1233w(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
-            print("hi")
-
-        }
+//        func WWW1233w(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
+//            print("hi")
+//
+//        }
 }
