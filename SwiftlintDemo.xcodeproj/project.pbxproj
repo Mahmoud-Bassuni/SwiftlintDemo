@@ -176,7 +176,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "if which swiftlint >/dev/null; then\n    echo \"swiftlint already installed in machine\";\n    git diff --cached --name-only | grep \"\\.swift\" | while read filename; do\n        echo \"swiftlinting file $filename\";\n        swiftlint lint --path \"$filename\";\n    done\nfi\n";
+			shellScript = "\"${PODS_ROOT}/SwiftLint/swiftlint\"\n";
 		};
 		DDB6AF75E5590D404F506E9D /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;

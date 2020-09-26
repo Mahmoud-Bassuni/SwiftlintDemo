@@ -1,7 +1,6 @@
 //
 //  AppDelegate.swift
-//  SwiftlintDemo
-//
+//  SwiftlintDemo1//
 //  Created by Bassuni on 9/24/20.
 //  Copyright © 2020 Mahmoud Bassuni. All rights reserved.
 //
@@ -17,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-    func WWW(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
+    func WWW1(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
         print("hi")
 
     }
