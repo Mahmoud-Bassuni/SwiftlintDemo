@@ -17,6 +17,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
+    func ABC() {
+        pritn("hi")
+    }
+
     
     
     // MARK: UISceneSession Lifecycle
