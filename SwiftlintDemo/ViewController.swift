@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-        func WWW12(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
+        func WWW1233(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
             print("hi")
 
         }
