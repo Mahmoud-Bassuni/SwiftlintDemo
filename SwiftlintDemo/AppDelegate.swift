@@ -17,12 +17,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-    func ABC3() {
-        pritn("hi")
+    func ABC3(aaaaaaaa: String,aaaaaqaaa: String,awwaaaaaaa: String,aaaqaaaaaa: String,aaaqazaaaaa: String,aazzaaaaaa: String,aaazzzaaaaa: String,aaazzzaaaaswssa: String,aaazzwdededzaaaaswssa: String) {
+        print("hi")
+
     }
 
-    
-    
     // MARK: UISceneSession Lifecycle
 
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
