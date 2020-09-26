@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 
-    func ABC() {
+    func ABC2() {
         pritn("hi")
     }
 
